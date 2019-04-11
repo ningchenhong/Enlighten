@@ -1,11 +1,11 @@
-#Copyright statement
-##If you make any changes to this repo, you are deemed to accept this statement.
+# Copyright statement
+## If you make any changes to this repo, you are deemed to accept this statement.
 #### All the ownership of the project belongs to the project team, and we will be very grateful for your contribution. And once you make any contributions, the ownership of those contributions will belong to the project team.
 
 #### The project team is comprised of students and instructors from NUDT, China, and the results are owned by the "Enlighted" research group. 
 
 # Introduce of The Repo
-##The main objectives of the project are:
+## The main objectives of the project are:
 
 #### With the scale-down of the size of the classical semiconductor transistor and the scale-up of the number of integration processes, the continuation of Moore's law is strongly challenged by technical bottlenecks such as power consumption, quantum tunneling and leakage. Therefore, it is urgent to develop new computing technologies, among which quantum computing is a promising direction. By using the effects of quantum state superposition and quantum entanglement, it can realize superparallel acceleration for some algorithms. However, because of the high threshold for understanding and learning quantum mechanics, the principles of quantum computing have not been understood by non-professionals. Most quantum computing scholars start with the hard stuff of quantum mechanics, even if they are only the architects of the top-level systems and programming languages of quantum computing.
 
